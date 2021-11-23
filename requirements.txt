@@ -1,0 +1,9 @@
+tensorflow==2.1.0
+h5py==2.8.0
+numpy==1.19.2
+flask==1.1.2
+scikit-learn==0.24.2
+nltk
+tweepy==3.10.0
+python==3.7
+twint -w
